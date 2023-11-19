@@ -1,0 +1,31 @@
+.about-container{
+
+padding-top: 7rem;
+  padding-bottom: 5.5rem;
+  margin: auto;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 768px;
+  
+
+}
+
+.about-wrapper {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  text-align: center;
+  
+  
+}
+
+.about-wrapper  p {
+    font-size: 24px;
+}
+
+.about-wrapper img{
+    width: 400px;
+    border-radius: 10%;
+
+}

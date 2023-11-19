@@ -1,0 +1,33 @@
+.bottom-nav {
+    background: #fd4556;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    padding: 15px;
+  }
+  
+  .nav-link {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .nav-link:hover {
+    color: lightblue;
+  }
+  
+  .icon {
+    font-size: 30px;
+  }
+  
+  .active {
+    color: lightblue;
+  }
+
+  
